@@ -80,10 +80,10 @@ https://twitter.com/Manda_like_wine/status/1244602911084154880
 Police repression
 -----------------
 
-https://twitter.com/vnyshkr/status/1242542717118435330
-https://twitter.com/breslqueen/status/1244538392592990211
-https://twitter.com/th1an1/status/1245060777138143235
-https://twitter.com/wutuniverse/status/1245362930591432704
+- https://twitter.com/vnyshkr/status/1242542717118435330
+- https://twitter.com/breslqueen/status/1244538392592990211
+- https://twitter.com/th1an1/status/1245060777138143235
+- https://twitter.com/wutuniverse/status/1245362930591432704
 
 Ischgl
 ------
@@ -94,7 +94,7 @@ https://twitter.com/gebimair/status/1244333286345900034
 Strike and labor dispute
 ------------------------
 
-https://www.vice.com/en_us/article/y3mjxg/general-electric-workers-walk-off-the-job-demand-to-make-ventilators
+- https://www.vice.com/en_us/article/y3mjxg/general-electric-workers-walk-off-the-job-demand-to-make-ventilators
 
 
 Vienna vs Austria
