@@ -52,6 +52,13 @@ Conference software
 -------------------
 - jitsi
 - discord
+- zoom
+- skype
+- skype for business
+- [houseparty](https://houseparty.com/)
+- signal
+- Nextcloud
+- Slack
 
 
 Life, Culture, Arts
