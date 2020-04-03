@@ -54,7 +54,7 @@ Conference software
 - discord
 - zoom
 - skype
-- skype for business
+- skype for business ([https://www.tel.red/linux.php](for Linux))
 - [houseparty](https://houseparty.com/)
 - signal
 - Nextcloud
