@@ -8,6 +8,7 @@ Data
 - https://ncov2019.live/data
 - https://info.gesundheitsministerium.at/
 - Scientific papers dataset: https://pages.semanticscholar.org/coronavirus-research
+- https://www.google.com/covid19/mobility/
 
 
 Health science
@@ -43,6 +44,21 @@ Masks:
 - https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks
 - https://medium.com/@matthiassamwald/promoting-simple-do-it-yourself-masks-an-urgent-intervention-for-covid-19-mitigation-14da4100f429
 - How to disinfect or dispose of it after use: https://covid-at-home.info/shopping
+- [how to take off gloves and masks](https://twitter.com/MutVerein/status/1245651453819023360)
+  (video, 15sec)
+
+
+Beard
+-----
+- https://www.vox.com/the-goods/2020/3/30/21195447/beard-pandemic-coronavirus-masks-1918-spanish-flu-tuberculosis
+- https://www.surreynowleader.com/trending-now/should-you-shave-your-beard-to-stop-covid-19-the-u-s-cdc-has-a-guide/
+
+
+Law
+===
+
+- https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2020_II_98/BGBLA_2020_II_98.html
+- https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2020_II_130/BGBLA_2020_II_130.html
 
 
 Communication
@@ -50,15 +66,19 @@ Communication
 
 Conference software
 -------------------
+
+https://www.theverge.com/2020/4/1/21202945/zoom-alternative-conference-video-free-app-skype-slack-hangouts-jitsi
+
 - jitsi
 - discord
 - zoom
 - skype
 - skype for business ([https://www.tel.red/linux.php](for Linux))
-- [houseparty](https://houseparty.com/)
-- signal
+- Signal
 - Nextcloud
+- https://jami.net/
 - Slack
+- [houseparty](https://houseparty.com/)
 
 
 Life, Culture, Arts
@@ -84,6 +104,8 @@ Police repression
 - https://twitter.com/breslqueen/status/1244538392592990211
 - https://twitter.com/th1an1/status/1245060777138143235
 - https://twitter.com/wutuniverse/status/1245362930591432704
+- [Auflösung von Demonstrationen in Deutschland](https://twitter.com/Resistance2O20/status/1246441785313898497)
+
 
 Ischgl
 ------
