@@ -21,6 +21,19 @@ Models and calculators
     - https://t.co/1TDmvXrYWk?amp=1
 - https://aatishb.com/covidtrends/
 - https://exchange.iseesystems.com/public/isee/covid-19-simulator/index.html#page1
+- https://alhill.shinyapps.io/COVID19seir/
+- http://gabgoh.github.io/COVID/index.html
+
+
+Predictions and analysis
+------------------------
+- https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca
+- https://medium.com/data-for-science/epidemic-modeling-101-or-why-your-covid19-exponential-fits-are-wrong-97aa50c55f8
+
+
+How the virus spreads
+---------------------
+- https://www.zeit.de/wissen/gesundheit/2020-04/hendrik-streeck-covid-19-heinsberg-symptome-infektionsschutz-massnahmen-studie/seite-2
 
 
 How to stay healthy
@@ -32,6 +45,14 @@ Tests
 -----
 
 - https://twitter.com/fatmike182/status/1242911028750569476
+
+
+Disinfection
+------------
+
+How important is disinfection of objects?
+- ["Wir haben Viren auf Gegenständen oder Türklinken gefunden. Auch einmal im Toilettenwasser, wenn jemand Durchfall hatte. Es ist uns aber in keinem Fall gelungen, daraus intakte Viren anzuzüchten. Das deutet zumindest darauf hin, dass sich die meisten Menschen nicht über Oberflächen anstecken."](https://www.zeit.de/wissen/gesundheit/2020-04/hendrik-streeck-covid-19-heinsberg-symptome-infektionsschutz-massnahmen-studie/seite-2)
+- https://www.theguardian.com/us-news/2020/apr/04/how-long-does-coronavirus-live-on-different-surfaces
 
 
 Protection
@@ -46,6 +67,11 @@ Masks:
 - How to disinfect or dispose of it after use: https://covid-at-home.info/shopping
 - [how to take off gloves and masks](https://twitter.com/MutVerein/status/1245651453819023360)
   (video, 15sec)
+- https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html
+- https://futurezone.at/digital-life/wie-man-gesichtsmasken-richtig-desinfiziert/400804736
+- [Study: Masks Fail to Filter Virus in Coughing COVID-19 Patients](https://www.medpagetoday.com/infectiousdisease/covid19/85814)
+- https://twitter.com/fatmike182/status/1247544281608400897
+- https://twitter.com/fatmike182/status/1247526632606162947/photo/2
 
 
 Beard
@@ -105,6 +131,7 @@ Police repression
 - https://twitter.com/th1an1/status/1245060777138143235
 - https://twitter.com/wutuniverse/status/1245362930591432704
 - [Auflösung von Demonstrationen in Deutschland](https://twitter.com/Resistance2O20/status/1246441785313898497)
+- https://twitter.com/mauerfallkind/status/1247240925455269890
 
 
 Ischgl
