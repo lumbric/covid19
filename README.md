@@ -34,6 +34,7 @@ Predictions and analysis
 How the virus spreads
 ---------------------
 - https://www.zeit.de/wissen/gesundheit/2020-04/hendrik-streeck-covid-19-heinsberg-symptome-infektionsschutz-massnahmen-studie/seite-2
+- [3D visualiziaton](https://www.nytimes.com/interactive/2020/04/14/science/coronavirus-transmission-cough-6-feet-ar-ul.html)
 
 
 How to stay healthy
@@ -58,7 +59,7 @@ How important is disinfection of objects?
 Protection
 ----------
 
-Masks:
+How to make Masks:
 - https://naehtalente.de/atemschutz-naehen/
 - https://www.scmp.com/news/hong-kong/health-environment/article/3050689/how-make-your-own-mask-hong-kong-scientists
 - https://twitter.com/jperla/status/1241756707375575040
@@ -72,6 +73,8 @@ Masks:
 - [Study: Masks Fail to Filter Virus in Coughing COVID-19 Patients](https://www.medpagetoday.com/infectiousdisease/covid19/85814)
 - https://twitter.com/fatmike182/status/1247544281608400897
 - https://twitter.com/fatmike182/status/1247526632606162947/photo/2
+- [Why outside has more viral load than inside of mask](https://mobile.twitter.com/AliceICecile/status/1251963936385183744)
+- [Why masks may be better protection than thought](https://mobile.twitter.com/jeremyphoward/status/1251900333351149575)
 
 
 Beard
@@ -97,11 +100,13 @@ https://www.theverge.com/2020/4/1/21202945/zoom-alternative-conference-video-fre
 
 - jitsi
 - discord
-- zoom
-- skype
-- skype for business ([https://www.tel.red/linux.php](for Linux))
-- Signal
 - Nextcloud
+- Bigbluebutton
+- Gotomeeting
+- Zoom
+- Skype
+- Skype for business ([https://www.tel.red/linux.php](for Linux))
+- Signal
 - https://jami.net/
 - Slack
 - [houseparty](https://houseparty.com/)
@@ -132,6 +137,18 @@ Police repression
 - https://twitter.com/wutuniverse/status/1245362930591432704
 - [Auflösung von Demonstrationen in Deutschland](https://twitter.com/Resistance2O20/status/1246441785313898497)
 - https://twitter.com/mauerfallkind/status/1247240925455269890
+- [500 EUR for sitting alone on a bench in Vienna](https://twitter.com/florianklenk/status/1246126905608343552)
+- [Hamburg](https://twitter.com/jannisgrosse/status/1247609840068935680)
+- https://twitter.com/florianklenk/status/1247952308979318784/photo/1
+- [Cops pull off passage from a bus because he doesn't wear a mask](https://twitter.com/aidachavez/status/1248673398009421824)
+- [Polizist feuert Warnschüsse ab wegen Spaziergängern](https://www.vol.at/polizei-mit-schuessen-im-corona-einsatz/6591508)
+- [Forbidden to carry signs while cycling](https://twitter.com/klimaguerilla/status/1253756547265691648)
+
+
+Privacy
+-------
+
+- [Digital quarantine: accounts suspended](https://twitter.com/mathiasertl/status/1248895160806768640)
 
 
 Ischgl
@@ -140,10 +157,18 @@ Ischgl
 https://twitter.com/gebimair/status/1244333286345900034
 
 
+Health system
+-------------
+
+- [Spain has nationalized all of its private hospitals as the country goes into coronavirus lockdown](https://www.businessinsider.com/coronavirus-spain-nationalises-private-hospitals-emergency-covid-19-lockdown-2020-3?r=DE&IR=T)
+
+
 Strike and labor dispute
 ------------------------
 
 - https://www.vice.com/en_us/article/y3mjxg/general-electric-workers-walk-off-the-job-demand-to-make-ventilators
+- https://twitter.com/fightfor15/status/1247209252311019520
+- [Cheap labor from eastern countries](https://twitter.com/sybille_zeisel/status/1248874100430376960/photo/2)
 
 
 Vienna vs Austria
@@ -164,3 +189,10 @@ Fun and Memes
 - https://www.instagram.com/p/B-S5FgVjxgo/?igshid=hlmpeyr9saql
 - https://twitter.com/Normelottole/status/1245603154382573568
 - https://twitter.com/ana_nym/status/1245298328738435073
+
+
+Other signs of apocalypse
+=========================
+- [Fireball over Tirol](https://www.krone.at/2132247)
+- [Fire in Chernobyl](https://www.euronews.com/2020/04/10/village-evacuated-as-forest-fires-in-chernobyl-exclusion-zone-continue-to-burn)
+- [Vulcano erupted in indonesia](https://twitter.com/ISCResearch/status/1248860200506920960)
