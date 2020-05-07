@@ -23,7 +23,7 @@ Models and calculators
 - https://exchange.iseesystems.com/public/isee/covid-19-simulator/index.html#page1
 - https://alhill.shinyapps.io/COVID19seir/
 - http://gabgoh.github.io/COVID/index.html
-
+- https://covid19.healthdata.org/austria
 
 Predictions and analysis
 ------------------------
@@ -75,6 +75,7 @@ How to make Masks:
 - https://twitter.com/fatmike182/status/1247526632606162947/photo/2
 - [Why outside has more viral load than inside of mask](https://mobile.twitter.com/AliceICecile/status/1251963936385183744)
 - [Why masks may be better protection than thought](https://mobile.twitter.com/jeremyphoward/status/1251900333351149575)
+- [Combine fabrics to get high filtration results](https://pubs.acs.org/doi/10.1021/acsnano.0c03252)
 
 
 Beard
@@ -88,6 +89,7 @@ Law
 
 - https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2020_II_98/BGBLA_2020_II_98.html
 - https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2020_II_130/BGBLA_2020_II_130.html
+- [How to law in Austria](https://twitter.com/georg_renner/status/1255049073373188097)
 
 
 Communication
@@ -96,20 +98,26 @@ Communication
 Conference software
 -------------------
 
-https://www.theverge.com/2020/4/1/21202945/zoom-alternative-conference-video-free-app-skype-slack-hangouts-jitsi
+Reviews:
+- https://www.theverge.com/2020/4/1/21202945/zoom-alternative-conference-video-free-app-skype-slack-hangouts-jitsi
+- https://epicenter.works/content/videokonferenztools-von-open-source-bis-datenschutzdesaster
 
+Software:
 - jitsi
+- Zoom
 - discord
+- [edumeet](https://edumeet.aco.net/)
 - Nextcloud
 - Bigbluebutton
 - Gotomeeting
-- Zoom
+- Google Meet
 - Skype
 - Skype for business ([https://www.tel.red/linux.php](for Linux))
 - Signal
 - https://jami.net/
 - Slack
 - [houseparty](https://houseparty.com/)
+
 
 
 Life, Culture, Arts
@@ -121,6 +129,11 @@ Life, Culture, Arts
 Politics
 ========
 
+Food
+-----
+
+- [Inländer werden nicht als Erntehelfer benötigt](https://twitter.com/i_koon/status/1253954611146379265)
+- [Belgium asks population to eat more potatoes](https://twitter.com/StefanLeifert/status/1253671337467445249)
 
 Poverty
 -------
@@ -143,6 +156,7 @@ Police repression
 - [Cops pull off passage from a bus because he doesn't wear a mask](https://twitter.com/aidachavez/status/1248673398009421824)
 - [Polizist feuert Warnschüsse ab wegen Spaziergängern](https://www.vol.at/polizei-mit-schuessen-im-corona-einsatz/6591508)
 - [Forbidden to carry signs while cycling](https://twitter.com/klimaguerilla/status/1253756547265691648)
+- https://twitter.com/florianklenk/status/1253687773669842944
 
 
 Privacy
@@ -196,3 +210,8 @@ Other signs of apocalypse
 - [Fireball over Tirol](https://www.krone.at/2132247)
 - [Fire in Chernobyl](https://www.euronews.com/2020/04/10/village-evacuated-as-forest-fires-in-chernobyl-exclusion-zone-continue-to-burn)
 - [Vulcano erupted in indonesia](https://twitter.com/ISCResearch/status/1248860200506920960)
+
+
+Other implications
+==================
+https://www.youtube.com/watch?v=fJiO0cdeQxI&feature=youtu.be
